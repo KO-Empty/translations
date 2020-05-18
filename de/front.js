@@ -4,8 +4,7 @@ xport default {
   _lt: {
 
     default: {
-      cookiesBanner: 'Wir setzen Cookies ein 🍪 um Sie das beste Erlebnis zu bieten.
-Wenn Sie unsere Website weiterhin nutzen möchtest, gehen wird davons uns, dass Sie unsere Cookies-Richtlinie akzeptieren. {button}',
+      cookiesBanner: 'Wir setzen Cookies ein 🍪 um Sie das beste Erlebnis zu bieten. Wenn Sie unsere Website weiterhin nutzen möchtest, gehen wird davons uns, dass Sie unsere Cookies-Richtlinie akzeptieren. {button}',
       readMore: 'Weiterlesen',
     },
 
@@ -101,7 +100,7 @@ Wenn Sie unsere Website weiterhin nutzen möchtest, gehen wird davons uns, dass 
     list: {
 
       friendships: {
-        description: 'Alles was Sie über die Links zwischen Ihnen und einem Benutzer wissen müssen! 🙌',
+        description: 'Alles was du über die Links zwischen dich und einem Benutzer wissen müssen! 🙌',
         longDescription: 'Dank Freundschaft werden Sie wissen, wie viel Freund sind Sie mit einem andere benutzer : je mehr blaue Pellets du hast, desto stärker sind die Links! Schreiben Sie jemands Twitter-Spitzname und finden Sie Ihre Freundschaft!',
       },
       'common-friends': {
@@ -121,8 +120,8 @@ Wenn Sie unsere Website weiterhin nutzen möchtest, gehen wird davons uns, dass 
         longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass wir an der Realität festhalten versuchen, wird unsere "Valentine" erfreuen Sie... ?',
       },
       'secret-crush': {
-        description: 'Jemand liebt Someone loves you in secret... and hides it from you... 😳',
-        longDescription: 'We keep the algorithm of this feature secret. All we can say is that your Secret Crush will impress you, good or bad?',
+        description: 'Jemand liebt Ihr heimlich... und versteckt es vor Sie... 😳',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Geheimer Schwarm is that your Secret Crush will impress you, good or bad?',
       },
       'hidden-twin': {
         description: 'Yes, you have a hidden twin.... who the hell is it? 🤔',
