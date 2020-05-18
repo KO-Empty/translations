@@ -121,11 +121,11 @@ xport default {
       },
       'secret-crush': {
         description: 'Jemand liebt Ihr heimlich... und versteckt es vor Sie... 😳',
-        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Geheimer Schwarm is that your Secret Crush will impress you, good or bad?',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Geheimer Schwarm Sie beeindrückt wird, gut oder nicht?',
       },
       'hidden-twin': {
-        description: 'Yes, you have a hidden twin.... who the hell is it? 🤔',
-        longDescription: 'We keep the algorithm of this feature secret. All we can say is that your Hidden Twin will impress you, good or bad?',
+        description: 'Ja, Sie haben ein versteckt Zwilling... Wer zum Teufel ist diese Person? 🤔',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Versteckt Zwilling Sie beeindrückt wird, gut oder nicht?',
       },
       'stolen-kiss': {
         description: 'Who wants to steal a kiss from you on a street corner? 💋',
