@@ -101,26 +101,26 @@ xport default {
 
       friendships: {
         description: 'Alles was du über die Links zwischen dich und einem Benutzer wissen müssen! 🙌',
-        longDescription: 'Dank Freundschaft werden Sie wissen, wie viel Freund sind Sie mit einem andere benutzer : je mehr blaue Pellets du hast, desto stärker sind die Links! Schreiben Sie jemands Twitter-Spitzname und finden Sie Ihre Freundschaft!',
+        longDescription: 'Dank Freundschaft werden Sie wissen, wie viel Freund mit einem andere benutzer Sie sind : je mehr blaue Pellets Sie haben, desto stärker sind die Links! Schreiben Sie jemands Twitter-Spitzname und finden Sie Ihre Freundschaft!',
       },
       'common-friends': {
         description: ' Entdecken Sie andere Benutzer gemeinsame Freunden! 👥',
-        longDescription: 'Die Gemeinsame Freunden ermöglicht Ihnen, die Abonnements/Freunden die mit andere Person beide gemeinsam sind zu sehen. Haben Sie gleiche Vorlieben, und in welchem Umfang?',
+        longDescription: 'Die Gemeinsame Freunden ermöglicht Sie sehen, die Abonnements/Freunden die mit andere Person beide gemeinsam sind. Haben Sie gleiche Vorlieben, und in welchem Umfang?',
       },
       'top-friends': {
         description: 'Entdecken Sie in letzter Zeit Ihre besten Twitter-Freunde! 🤗',
-        longDescription: 'Die Beste Freunden ermöglicht Ihnen, wer Ihren beste Freunden auf Twitter sind. Wir etablieren ein Ranking dank die gesendeten und empfangene Informationen auf Ihr Konto. Dann zahlen,addieren und sortieren wir sie, um Ihre Beste Freunden zu finden!',
+        longDescription: 'Die Beste Freunden ermöglicht Sie wissen, wer Ihrer beste Freunden auf Twitter sind. Wir etablieren ein Ranking dank die gesendeten und empfangene Informationen auf Ihr Konto. Dann zahlen,addieren und sortieren wir sie, um Ihre Beste Freunden zu finden!',
       },
       'famous-followers': {
         description: 'Entdecken Sie die beliebtesten Personen unter Ihrem Followers! 💅',
-        longDescription: 'Die Beliebt Followers ermöglicht Ihnen, wer am meisten Followers unter Ihrem selbst Followers hat zu wissen. Wir sammeln jeden Ihrem Followers und ihre Followers Anzahl, und wir sortieren sie um Beliebte Freunden zu finden!',
+        longDescription: 'Die Beliebt Followers ermöglicht Sie wissen, wer am meisten Followers unter Ihr selbst Followers hat . Wir sammeln jeden Ihrem Followers und ihre Followers Anzahl, und wir sortieren sie um Beliebte Freunden zu finden!',
       },
       valentine: {
         description: 'Wir weißen wer heute Jahr Ihr "Valentine" ist wird... Und Sie ? 💏',
         longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass wir an der Realität festhalten versuchen, wird unsere "Valentine" erfreuen Sie... ?',
       },
       'secret-crush': {
-        description: 'Jemand liebt Ihr heimlich... und versteckt es vor Sie... 😳',
+        description: 'Jemand liebt Sie heimlich... und versteckt es vor Sie... 😳',
         longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Geheimer Schwarm Sie beeindrückt wird, gut oder nicht?',
       },
       'hidden-twin': {
@@ -128,20 +128,20 @@ xport default {
         longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Versteckt Zwilling Sie beeindrückt wird, gut oder nicht?',
       },
       'stolen-kiss': {
-        description: 'Who wants to steal a kiss from you on a street corner? 💋',
-        longDescription: 'We keep the algorithm of this feature secret. All we can say is that your Stolen Kiss will impress you, good or bad?',
+        description: 'Wer will Sie um einer Straßenecke kussen ? 💋',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Ihr Gestohlene Kuss Sie beeindrückt wird, gut oder nicht ?',
       },
       'may-day': {
-        description: 'Who\'s your best bouquet for this year? 💐',
-        longDescription: 'We keep the algorithm of this feature secret. All we can say is that you\'re going to make someone very happy!',
+        description: 'Wer ist Ihr beste Strauß an diesem Jahr ? 💐',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Sie jemanden glücklich sein werden machen!',
       },
       'halloween-duo': {
-        description: 'Who will you be most afraid with this year? 🎃👻',
-        longDescription: 'We keep the algorithm of this feature secret. All we can say is that you\'re going to be scary for Halloween this year!',
+        description: 'Wer wird Sie am meisten dieses Jahr fürchten von ? 🎃👻',
+        longDescription: 'Wir halten den Algorithmus dieser Funktion geheim. Wir können nur sagen, dass Sie dieses Jahr sehr Angst für Halloween werden haben!',
       },
       'tweet-rate': {
-        description: 'Compare your tweet rate with another user! 📊',
-        longDescription: 'The Tweet Rate allows you to know the average number of tweets you publish per day since you registered on Twitter and compare yourself with another person! Are you the most active?',
+        description: 'Vergleichen Sie Ihr Tweet-Rate mit anderen Benutzern! 📊',
+        longDescription: 'Tweet Rate ermöglicht Sie wissen, der Tweets durchnittlische Anzahl Sie zeit Ihrer Registrierung veröffentlicht hat, und vergleichen Sie mit anderen Personen! Sind Sie der aktvisten?',
       },
       'first-to-follow': {
         description: 'Find out when you\'ve been following a user and vice versa! 😮',
